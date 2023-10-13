@@ -1,0 +1,7 @@
+https://github.com/ayulockin/deepimageinpainting
+
+https://github.com/pranavphoenix/WaveMix
+
+https://github.com/DmitryUlyanov/deep-image-prior
+
+https://github.com/saravanabalagi/deep_image_prior
